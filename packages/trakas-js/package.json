@@ -1,0 +1,22 @@
+{
+  "name": "trakas",
+  "version": "0.0.0",
+  "description": "sdf",
+  "author": "Khánh Hoàng <hoangchaukhanh93@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/trakas-js.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
